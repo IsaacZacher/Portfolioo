@@ -23,10 +23,6 @@ plt.show()
 
 
 
-![png](demo%20day%204_files/demo%20day%204_2_0.png)
-
-
-
 ## How to Turn into an Animation
 ---
 
