@@ -1,3 +1,7 @@
+# Animation 
+---
+Here is a smaple of code that i wrote to animate a simple figure.
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
