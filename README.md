@@ -1,6 +1,6 @@
-# Isaac Zacher 
-## Coding Portfolio
 
-example of code on how to [animate figures](animation_ex.md)
+##  Portfolio
 
-
+How you can [animate figures](animation_ex.md)
+Need Many Files c[ombined into one data frame?] (open_multiple_files.md)
+[Fun counter](helpful_count.md) to tell how 'helpful' you think something is
