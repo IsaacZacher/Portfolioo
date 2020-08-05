@@ -11,3 +11,6 @@
 
 [Fun Coding Examples](helpful_count.md) 
 
+<a href="../">Portfolio</a>
+<a href="Portfolio">Portfolio 2</a>
+<a href="https://IsaacZacher.github.io/Portfolio/">Home 2</a>
