@@ -3,7 +3,7 @@
 
 # Animation 
 ---
-Here is a smaple of code that i wrote to animate a simple figure.
+Here is a smaple of code that I wrote to animate a simple figure.
 
 ```python
 import numpy as np
@@ -414,6 +414,7 @@ AAAAAAAAACFoZGxyAAAAAAAAAABtZGlyYXBwbAAAAAAAAAAAAAAAAC1pbHN0AAAAJal0b28AAAAd
 ZGF0YQAAAAEAAAAATGF2ZjU3LjgzLjEwMA==
 ">
   
+
 
 
 <a href="https://isaaczacher.github.io/Portfolio/animation_ex.html">Back to Top </a>
