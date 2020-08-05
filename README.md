@@ -11,4 +11,3 @@
 
 [Fun Coding Examples](helpful_count.md) 
 
-<a href="page1.html">Page 2</a>
