@@ -1,14 +1,12 @@
 
 ##  Portfolio
 
-Data Frame Manipulation Examples Need Many Files [combined into one data frame](open_multiple_files.md)  
+[Data Frame Manipulation Examples Need Many Files](open_multiple_files.md)  
 
+[Data Visulization Examples](Figure_Examples.md)
 
-Data Visulization Examples [vis figures](Figure_Examples.md)
+[Figure Animation Examples](animation_ex.md)
 
-figure animation examples How you can [animate figures](animation_ex.md)
+[Statisitc Examples](stats_examples.md)
 
-Statisitc Examples[stats](stats examples .md)
-
-
-Fun Coding Examples[Fun counter](helpful_count.md) 
+[Fun Coding Examples](helpful_count.md) 
