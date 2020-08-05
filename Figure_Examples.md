@@ -25,3 +25,24 @@ plt.savefig("Violin_plot.png")
 ```python
 
 ```
+
+
+```python
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+sns.set_style('whitegrid')
+
+fig1 = sns.boxplot(x='flankers', y='rt', hue='simon', order=["congruent", "incongruent"], data=data)
+
+fig1.set_title('Flanker and Simon Condition Interactions (Figure 1)', fontsize=18)
+fig1.set_xlabel('Flankers', fontsize=15)
+fig1.set_ylabel('RT(ms)', fontsize=15)
+fig1.set_xticklabels(['Congruent', 'Incongruent'], fontsize=12)
+plt.legend(title='Simon', labels=['Congruent', 'Incongruent'])
+h, l = fig1.get_legend_handles_labels()
+labels=['Congruent', 'Incongruent']
+fig1.legend(h, labels, title='Simon')
+
+plt.savefig("Boxplot.png")
+```
