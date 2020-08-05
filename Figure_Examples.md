@@ -20,12 +20,11 @@ fig2.legend(h, labels, title='Simon')
 plt.savefig("Violin_plot.png")
 
 ```
+
+![violin plot (figure 2)](Violin_plot.png)
 ## Box Plots 
 ---
 
-```python
-
-```
 
 
 ```python
@@ -47,3 +46,4 @@ fig1.legend(h, labels, title='Simon')
 
 plt.savefig("Boxplot.png")
 ```
+![boxplots (Figure 1)](Boxplot.png)
