@@ -1,12 +1,14 @@
 
 ##  Portfolio
 
-How you can [animate figures](animation_ex.md)
+Data Frame Manipulation Examples Need Many Files [combined into one data frame](open_multiple_files.md)  
 
 
-Need Many Files [combined into one data frame](open_multiple_files.md)  
+Data Visulization Examples [vis figures](Figure Examples.md)
+
+figure animation examples How you can [animate figures](animation_ex.md)
+
+Statisitc Examples[stats](stats examples .md)
 
 
-[Fun counter](helpful_count.md) to tell how 'helpful' you think something is
-
-Samples of some Graphs I have made 
+Fun Coding Examples[Fun counter](helpful_count.md) 
