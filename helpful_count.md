@@ -1,3 +1,12 @@
+# Fun Codes 
+---
+
+
+## Transcipt Counter
+Used to count how many times the word 'help' was said in a demo I made 
+
+---
+
 ```python
 count_helpful = 0      # Varibles that I will use to count
 count_help = 0
