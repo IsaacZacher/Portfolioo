@@ -24,8 +24,3 @@ model = sm.formula.ols(formula, data= data).fit()
 
 aov_table = sm.stats.anova_lm(model, typ=2)
 ```
-
-
-```python
-
-```
