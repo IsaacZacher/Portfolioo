@@ -1,3 +1,5 @@
+<a href="https://IsaacZacher.github.io/Portfolio/">Home</a>
+
 # Fun Codes 
 ---
 
