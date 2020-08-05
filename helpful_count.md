@@ -43,6 +43,5 @@ print('In total you used the base word "Help"', str(total), "times in your demo_
 
 
 
-```python
 
-```
+<a href=https://isaaczacher.github.io/Portfolio/helpful_count.html>Home</a>
