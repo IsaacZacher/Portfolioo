@@ -23,7 +23,7 @@ line, = ax.plot(x, np.sin(x))
 plt.show()
 
 ```
-
+![plot](sine.png)
 
 
 
@@ -410,7 +410,6 @@ IgAAANIAAACnAAAAogAAAOQAAACoAAAAFHN0Y28AAAAAAAAAAQAAACwAAABidWR0YQAAAFptZXRh
 AAAAAAAAACFoZGxyAAAAAAAAAABtZGlyYXBwbAAAAAAAAAAAAAAAAC1pbHN0AAAAJal0b28AAAAd
 ZGF0YQAAAAEAAAAATGF2ZjU3LjgzLjEwMA==
 ">
-  Your browser does not support the video tag.
-</video>
+  
 
 
