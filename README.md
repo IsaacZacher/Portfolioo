@@ -7,6 +7,6 @@
 
 [Figure Animation](animation_ex.md)
 
-[Ftatistics](stats_examples.md)
+[Statistics](stats_examples.md)
 
 [Fun Coding](helpful_count.md) 
