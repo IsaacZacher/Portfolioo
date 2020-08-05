@@ -1,5 +1,5 @@
 ## Violin Plots 
-
+---
 
 ```python
 # Violin plot of flankers and Simon conditions
@@ -20,7 +20,8 @@ fig2.legend(h, labels, title='Simon')
 plt.savefig("Violin_plot.png")
 
 ```
-
+## Box Plots 
+---
 
 ```python
 
