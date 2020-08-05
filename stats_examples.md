@@ -1,3 +1,5 @@
+<a href="https://IsaacZacher.github.io/Portfolio/">Home</a>
+
 # Stats Examples 
 
 ### Here are some examples of stats that I have coded 
