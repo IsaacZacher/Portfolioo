@@ -1,7 +1,7 @@
 # About Me
 ---
 
-<img src="IMG-0044.JPG" alt="lovey ginger mows lawn while enjoying ice cream" width="300"/>    <   >      <img src="IMG-7352.JPG" alt="lovey ginger mows lawn while enjoying ice cream" width="300"/>
+<img src="IMG-0044.JPG" alt="smart" width="300"/>        <img src="IMG-7352.JPG" alt="active" width="300"/>
 
 
 
