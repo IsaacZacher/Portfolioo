@@ -15,7 +15,7 @@ ttestpair_Simon = ttest_rel(simon_congru, simon_in_congru, nan_policy='omit')
 print(ttestpair_Simon)
 
 ```
-Example 2 - *developed with Arlene jiang
+Example 2 - *developed with Arlene jiang*
 ```python
 # Initialize time window names
 time_windows = ['N400','P600']
