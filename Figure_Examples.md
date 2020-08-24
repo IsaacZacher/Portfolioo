@@ -296,5 +296,5 @@ by_cross.head(20)
 sns.heatmap(by_cross)
 plt.show()
 ```
-<img src= "uber_demo_14_0.JPG" alt="heat" width="300"/>
+![heat (Figure 3)](uber_demo_14_0.png)
 <a href="https://isaaczacher.github.io/Portfolio/Figure_Examples.html">Back to Top </a>
