@@ -33,15 +33,28 @@ print('You said Helped ' + str(count_helped) + " times. ")
 print()
 print('In total you used the base word "Help"', str(total), "times in your demo_1 video.")
 
-```
-
+```python
     You said Helpful 6 times. 
     You said Help 1 times. 
     You said Helped 3 times. 
     
     In total you used the base word "Help" 10 times in your demo_1 video.
+```
+
+# Map Out of Uber Lat. Long. Data
+
+```python
+plt.figure(figsize=(20, 20))
+plt.plot(data['Lon'], data['Lat'], '.', ms=1, alpha=.5)
+plt.xlim(-74.2, -73.7)
+plt.ylim(40.7, 41)
+plt.ylabel('')
+plt.show()
+```
 
 
+
+![png](uber_demo_18_0.png)
 
 
 <a href=https://isaaczacher.github.io/Portfolio/helpful_count.html>Home</a>
