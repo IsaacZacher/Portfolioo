@@ -33,13 +33,13 @@ print('You said Helped ' + str(count_helped) + " times. ")
 print()
 print('In total you used the base word "Help"', str(total), "times in your demo_1 video.")
 
-
+```
     You said Helpful 6 times. 
     You said Help 1 times. 
     You said Helped 3 times. 
     
     In total you used the base word "Help" 10 times in your demo_1 video.
-```
+
 
 # Map Out of Uber Lat. Long. Data
 
