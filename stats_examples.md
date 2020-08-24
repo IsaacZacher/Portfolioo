@@ -17,6 +17,7 @@ print(ttestpair_Simon)
 ```
 Example 2 - *developed with Arlene jiang*
 ```python
+from scipy.stats import ttest_rel
 # Initialize time window names
 time_windows = ['N400','P600']
 
