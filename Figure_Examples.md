@@ -292,5 +292,5 @@ by_cross.head(20)
 ```python
 sns.heatmap(by_cross)
 plt.show()
-
+```
 <a href="https://isaaczacher.github.io/Portfolio/Figure_Examples.html">Back to Top </a>
