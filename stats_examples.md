@@ -30,8 +30,6 @@ for time in time_windows:
 
     # Loop through contrasts
     for con in contrasts.keys():
-        #cond_1,cond_2 = contrasts[contrast]  #makes tuples from the dict to be used in selfecting the df for array to go into t-test
-
         # Slice DataFrame for relevant time and conditions
         A = test_1[(test_1['t_window'] == time) & (test_1['condition'] == contrasts[con][0])]['value']
         B = test_1[(test_1['t_window'] == time) & (test_1['condition'] == contrasts[con][1])]['value']
