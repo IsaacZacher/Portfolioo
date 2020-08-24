@@ -49,6 +49,7 @@ fig1.legend(h, labels, title='Simon')
 plt.savefig("Boxplot.png")
 ```
 > *Code developed with Sarah Harrison 
+
 ![boxplots (Figure 1)](Boxplot.png)
 
 
