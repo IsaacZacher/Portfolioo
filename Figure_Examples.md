@@ -25,6 +25,7 @@ plt.savefig("Violin_plot.png")
 
 ![violin plot (figure 2)](Violin_plot.png)
 ## Box Plots 
+> *Code developed with Sarah Harrison*
 ---
 
 
@@ -48,7 +49,7 @@ fig1.legend(h, labels, title='Simon')
 
 plt.savefig("Boxplot.png")
 ```
-> *Code developed with Sarah Harrison*
+
 
 ![boxplots (Figure 1)](Boxplot.png)
 
